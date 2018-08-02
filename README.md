@@ -1,6 +1,6 @@
-# Hello! I want to play a game...
+# I want to play a game...
 
-# TASK:
+TASK:
 
 Complete the given JS code snippets within the tasks folder.
 In order to test them, require your solution in the index.js and call your method.
