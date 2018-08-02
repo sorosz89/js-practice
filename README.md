@@ -1,5 +1,4 @@
-# js-practice
-# I want to play a game.
+# Hello! I want to play a game...
 
 # TASK:
 
